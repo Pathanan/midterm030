@@ -199,7 +199,7 @@ export default function Portfolio() {
                                                     <h6 className='A' > <span className="description"></span>😘😘😘 </h6>
                                                 </div>
                                                 <div className="user-block">
-                                                    <img className="img-circle img-bordered-sm" src="https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/191792503_3076941259220619_1619627825429849925_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF4CGdEEUHEHlwDrrEGFD_KOmo9-JxmD_A6aj34nGYP8KennC-NTdH8bQOYahdFFVEskDAnu90U2QqvI62BG7yN&_nc_ohc=ARo193WKq6cAX9Uvzbb&_nc_ht=scontent.fbkk21-1.fna&oh=00_AT_gaXXlxli5EAz6K4CU3AEy8cUlV3OLKo5wYu_AXd0XUg&oe=6307C744" alt="User Image" />
+                                                    <img className="img-circle img-bordered-sm" src="https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/191792503_3076941259220619_1619627825429849925_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF4CGdEEUHEHlwDrrEGFD_KOmo9-JxmD_A6aj34nGYP8KennC-NTdH8bQOYahdFFVEskDAnu90U2QqvI62BG7yN&_nc_ohc=GNlZdfYzNSwAX_W88Gw&_nc_ht=scontent.fbkk21-1.fna&oh=00_AT9oBoKLKIjGyenZDtvwZg2tCL8cKkCSkw48teatbel12A&oe=631F8244" />
                                                     <span className="username">
                                                        <h6 className='A'> <a href="#"></a>ไพฑูรย์ ศรีนิล</h6>
                                                     </span>
